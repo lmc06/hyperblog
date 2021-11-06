@@ -3,6 +3,7 @@ html {
 }
 
 body {
+  background-color: grey;
   color: black;
   font-family: "Arial";
   text-align: center;
@@ -17,6 +18,7 @@ body {
   font-weight: bold;
   margin: 0;
   padding: 0.5rem;
+  text-align: left;
 }
 
 .cabecera .logo {
@@ -39,5 +41,6 @@ body {
 }
 
 .post {
+  background-color: blanchedalmond;
   padding: 1rem;
 }
